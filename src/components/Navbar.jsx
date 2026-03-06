@@ -30,7 +30,7 @@ export default function Navbar() {
           {/* Logo - Mobile: Right side, Desktop: Center */}
           <div className="flex items-center justify-center md:absolute md:left-1/2 md:transform md:-translate-x-1/2">
             <div className="flex items-center space-x-2">
-               <img src="/logo.svg" alt="" />
+            <img src="/logo.svg" alt="" />
             </div>
           </div>
 
