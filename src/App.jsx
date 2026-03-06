@@ -5,6 +5,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Clients from './components/Clients '
+import Promise from './components/Promise'
 
 function App() {
   
@@ -14,6 +15,7 @@ function App() {
       <Navbar/>
     <Hero/>
     <Clients/>
+    <Promise/>
     </>
   )
 }
