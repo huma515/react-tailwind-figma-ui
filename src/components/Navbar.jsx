@@ -10,16 +10,16 @@ export default function Navbar() {
           
           {/* Left Navigation - Desktop Only */}
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors duration-200">
+            <a href="#" className="text-gray-600 hover:text-gray-900 text-lg font-medium transition-colors duration-200">
               Features
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors duration-200">
+            <a href="#" className="text-gray-600 hover:text-gray-900 text-lg font-medium transition-colors duration-200">
               Pricing
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors duration-200">
+            <a href="#" className="text-gray-600 hover:text-gray-900 text-lg font-medium transition-colors duration-200">
               Testimonials
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors duration-200">
+            <a href="#" className="text-gray-600 hover:text-gray-900 text-lg font-medium transition-colors duration-200">
               Resources
             </a>
           </div>
@@ -36,10 +36,10 @@ export default function Navbar() {
 
           {/* Right Side - Desktop: Nav Links, Mobile: Hamburger */}
           <div className="hidden md:flex items-center space-x-8">
-            <a href="#" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors duration-200">
+            <a href="#" className="text-gray-600 hover:text-gray-900 text-lg font-medium transition-colors duration-200">
               Company
             </a>
-            <a href="#" className="text-gray-600 hover:text-gray-900 text-sm font-medium transition-colors duration-200">
+            <a href="#" className="text-gray-600 hover:text-gray-900 text-lg font-medium transition-colors duration-200">
               Contact
             </a>
             <button className="border border-cyan-500 text-cyan-500 hover:bg-cyan-50 px-6 py-2.5 rounded text-sm font-medium transition-colors duration-200">
