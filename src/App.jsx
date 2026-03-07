@@ -8,6 +8,7 @@ import Clients from './components/Clients '
 import Promise from './components/Promise'
 import Awards from './components/Awards.JSX'
 import FeaturesSec from './components/FeaturesSec'
+import TestimonialsSection  from './components/TestimonialsSection'
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
     <Promise/>
     <Awards/>
     <FeaturesSec/>
+    <TestimonialsSection/>
     
     </>
   )

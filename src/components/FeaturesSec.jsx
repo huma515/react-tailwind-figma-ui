@@ -46,10 +46,10 @@ const FeaturesSec = () => {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           {/* Left Content */}
           <div className="space-y-6">
-            <h1 className="text-4xl font-bold text-gray-900">
+            <h1 className="text-4xl font-extrabold text-gray-900">
               Create
             </h1>
-            <h2 className="text-xl font-semibold text-gray-800">
+            <h2 className="text-2xl font-bold text-gray-800">
               Advanced research software
             </h2>
             <p className="text-gray-600 leading-relaxed max-w-md">
