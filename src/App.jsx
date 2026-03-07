@@ -11,6 +11,7 @@ import FeaturesSec from './components/FeaturesSec'
 import TestimonialsSection  from './components/TestimonialsSection'
 import SolutionSection from './components/SolutionSection'
 import ResourcesSection from './components/ResourcesSection'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -27,6 +28,7 @@ function App() {
     <TestimonialsSection/>
     <SolutionSection/>
     <ResourcesSection/>
+    <Footer/>
     
     </>
   )
