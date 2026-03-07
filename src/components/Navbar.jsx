@@ -25,13 +25,10 @@ export default function Navbar() {
             </a>
           </div>
 
-          {/* Mobile: Empty div for spacing */}
-          <div className="md:hidden w-20"></div>
-
-          {/* Logo - Mobile: Right side, Desktop: Center */}
-          <div className="flex items-center justify-center md:absolute md:left-1/2 md:transform md:-translate-x-1/2">
+          {/* Logo - Mobile: Left side, Desktop: Center */}
+          <div className="flex items-center justify-start md:justify-center md:absolute md:left-1/2 md:transform md:-translate-x-1/2">
             <div className="flex items-center space-x-2">
-            <img src="/logo.svg" alt="" />
+              <img src="/logo.svg" alt="" />
             </div>
           </div>
 
