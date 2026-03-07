@@ -24,6 +24,9 @@ const ResourcesSection = () => {
 
   return (
     <section className="py-20 lg:py-28 px-6 lg:px-20 bg-white">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+        <div className="border-t-5 border-cyan-500"></div>
+      </div>
       <div className="max-w-7xl mx-auto">
         {/* Section Header */}
         <div className="text-center mb-16">

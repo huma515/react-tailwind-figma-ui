@@ -4,6 +4,9 @@ import React from 'react';
 const SolutionSection = () => {
   return (
     <section className="py-20 lg:py-28 px-6 lg:px-20 bg-white overflow-x-hidden sm:overflow-x-hidden md:overflow-x-hidden lg:overflow-x-hidden">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-12">
+        <div className="border-t-5 border-cyan-500"></div>
+      </div>
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-16 lg:gap-34 items-center">
           

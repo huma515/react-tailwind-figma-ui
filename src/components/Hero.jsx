@@ -13,6 +13,7 @@ import React from 'react';
 
   return (
     <section className="relative bg-gradient-to-b from-cyan-50 to-white overflow-hidden">
+      
       {/* Subtle background pattern */}
       <div className="absolute inset-0 opacity-30">
         <div className="absolute inset-0" style={{
