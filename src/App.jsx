@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Clients from './components/Clients '
 import Promise from './components/Promise'
+import Awards from './components/Awards.JSX'
 
 function App() {
   
@@ -16,6 +17,7 @@ function App() {
     <Hero/>
     <Clients/>
     <Promise/>
+    <Awards/>
     </>
   )
 }
