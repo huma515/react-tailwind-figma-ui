@@ -7,6 +7,8 @@ import Hero from './components/Hero'
 import Clients from './components/Clients '
 import Promise from './components/Promise'
 import Awards from './components/Awards.JSX'
+import FeaturesSec from './components/FeaturesSec'
+
 
 function App() {
   
@@ -18,6 +20,8 @@ function App() {
     <Clients/>
     <Promise/>
     <Awards/>
+    <FeaturesSec/>
+    
     </>
   )
 }
