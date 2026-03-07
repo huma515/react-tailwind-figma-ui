@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const FeaturesSec = () => {
   return (
     <section className="bg-cyan-50 py-20 px-6">

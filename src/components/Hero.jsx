@@ -1,5 +1,6 @@
 import React from 'react';
 
+
  function Hero() {
   const companyLogos = [
     { name: 'Capgemini', color: '#0066CC' },

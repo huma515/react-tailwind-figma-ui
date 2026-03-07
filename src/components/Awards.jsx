@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const Awards = () => {
   const awards = [
     {

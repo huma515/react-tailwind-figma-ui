@@ -9,6 +9,7 @@ import Promise from './components/Promise'
 import Awards from './components/Awards.JSX'
 import FeaturesSec from './components/FeaturesSec'
 import TestimonialsSection  from './components/TestimonialsSection'
+import SolutionSection from './components/SolutionSection'
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
     <Awards/>
     <FeaturesSec/>
     <TestimonialsSection/>
+    <SolutionSection/>
     
     </>
   )
