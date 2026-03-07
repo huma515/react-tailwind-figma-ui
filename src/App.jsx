@@ -10,6 +10,7 @@ import Awards from './components/Awards.JSX'
 import FeaturesSec from './components/FeaturesSec'
 import TestimonialsSection  from './components/TestimonialsSection'
 import SolutionSection from './components/SolutionSection'
+import ResourcesSection from './components/ResourcesSection'
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
     <FeaturesSec/>
     <TestimonialsSection/>
     <SolutionSection/>
+    <ResourcesSection/>
     
     </>
   )
